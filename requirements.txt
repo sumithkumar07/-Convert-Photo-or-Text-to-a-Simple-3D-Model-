@@ -1,0 +1,10 @@
+torch>=1.13.0
+torchvision>=0.14.0
+shap-e==0.0.2
+rembg>=2.0.0
+opencv-python>=4.5.0
+matplotlib>=3.5.0
+pyrender>=0.1.45
+open3d>=0.15.0
+numpy>=1.21.0
+Pillow>=9.0.0 
